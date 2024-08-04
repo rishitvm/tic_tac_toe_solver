@@ -5,7 +5,7 @@ This repository contains a Tic-Tac-Toe solver implemented in C using parallel pr
 - User vs Computer: Play against a computer opponent.
 - Parallel Processing: Utilizes OpenMP for parallel computation, enhancing performance.
 - Efficient Algorithm: Implements advanced algorithms to ensure optimal moves by the computer.
-- 
+  
 # Prerequisites
 - GCC Compiler
 - OpenMP library
